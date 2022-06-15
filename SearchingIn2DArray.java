@@ -1,3 +1,4 @@
+// array sorted in both row and column wise
 import java.util.*;
 public class Main
 {
